@@ -1,6 +1,6 @@
 <h1 align="center">Brian Nguyen</h1>
 <h3 align="center">Optimization • Simulation • AI-Enabled Decision Systems</h3>
-<p align="center"><strong>MBA Candidate | Data & Business Analytics | Management Analytics</strong></p>
+<p align="center"><strong>MBA Candidate | Autonomous Vehicle and Robotics Professional (Zoox, Cruise, Google Robotics) | Operations | Analytics</strong></p>
 
 ---
 
