@@ -22,7 +22,7 @@ I specialize in analytics and reinforcement learning for decision-making under u
 
 ---
 
-My work spans:
+## 🧩 My Work Spans
 
 - 🔢 **Optimization (LP/MIP)** — optimal resource allocation under business rules  
 - 🎲 **Monte Carlo Simulation** — modeling uncertainty & financial risk  
