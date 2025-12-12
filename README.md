@@ -55,7 +55,7 @@ Below are the core projects that showcase my ability to blend optimization, simu
 ---
 
 ## 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
-**Multi-Armed Bandit Optimization for Zoox Safety Testing**
+**Multi-Armed Bandit Optimization for Autonomous Vehicle Safety Testing**
 
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2962FF?style=for-the-badge)
 ![Prescriptive Analytics](https://img.shields.io/badge/Prescriptive%20Analytics-0A9396?style=for-the-badge)
