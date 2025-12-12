@@ -54,6 +54,22 @@ Below are the core projects that showcase my ability to blend optimization, simu
 
 ---
 
+### 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
+**Multi-Armed Bandit Optimization for Zoox Safety Testing**
+
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2962FF?style=for-the-badge)
+![Prescriptive Analytics](https://img.shields.io/badge/Prescriptive%20Analytics-0A9396?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Simulation-2A9D8F?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Autonomous Vehicles](https://img.shields.io/badge/Autonomous%20Vehicles-FF4D6D?style=for-the-badge)
+
+Reinforcement learning project simulating **3,000+ autonomous vehicle–pedestrian encounters** to determine the safest evasive maneuver (hard brake vs. swerve left vs. swerve right) across multiple speed scenarios.  
+
+An **ε-greedy multi-armed bandit agent** updates Q-values after each trial using a safety-centred reward function that heavily penalizes collisions and perception failures. The learned policy consistently selects **hard braking** as the optimal decision, providing a simulation-based decision framework for AV safety testing.
+
+🔗 **GitHub repo:**  
+https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/reinforcement_learning/av_pedestrian_avoidance_bandit
+
 ## 🍇 **Landhills Winery — Optimal Blending Model (LP/MIP)**  
 *Mixed-integer optimization under regulatory, chemical, and supply constraints.*
 
