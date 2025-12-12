@@ -62,36 +62,46 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 ---
 
-# 📁 Featured Projects
+## 📁 Featured Projects
 
-## 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
+### 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
 **Multi-Armed Bandit Optimization for Autonomous Vehicle Safety Testing**
 
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2962FF?style=for-the-badge)
-![Prescriptive Analytics](https://img.shields.io/badge/Prescriptive%20Analytics-0A9396?style=for-the-badge)
-![Simulation](https://img.shields.io/badge/Simulation-2A9D8F?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Autonomous Vehicles](https://img.shields.io/badge/Autonomous%20Vehicles-FF4D6D?style=for-the-badge)
+- **Decision problem:** selecting the safest evasive maneuver under uncertainty  
+- **Approach:** ε-greedy multi-armed bandit with safety-weighted reward function  
+- **Impact:** simulation-based policy design for safety-critical AV testing  
 
-Reinforcement learning project simulating **3,000+ autonomous vehicle–pedestrian encounters** to determine the safest evasive maneuver (hard brake vs. swerve left vs. swerve right) across multiple speed scenarios.  
+➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/reinforcement_learning/av_pedestrian_avoidance_bandit
 
-An **ε-greedy multi-armed bandit agent** updates Q-values after each trial using a safety-centred reward function that heavily penalizes collisions and perception failures. The learned policy consistently selects **hard braking** as the optimal decision, providing a simulation-based decision framework for AV safety testing.
+---
 
-🔗 **GitHub repo:**  
-https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/reinforcement_learning/av_pedestrian_avoidance_bandit
+### 🍇 Landhills Winery — Optimal Blending Plan (LP/MIP)
 
-### ⚠️ Disclosure & Confidentiality Notice
-This project is based on publicly discussed autonomous vehicle safety challenges and academic simulation techniques.  
-No proprietary data, internal testing footage, or confidential materials from Zoox or any other organization are included.
+- **Decision problem:** profit maximization under regulatory, chemical, and supply constraints  
+- **Approach:** linear and mixed-integer optimization with sensitivity analysis  
+- **Impact:** prescriptive recommendations replacing heuristic planning  
 
-## 🍇 **Landhills Winery — Optimal Blending Model (LP/MIP)**  
-*Mixed-integer optimization under regulatory, chemical, and supply constraints.*
+➡ **Repository:** _Finalizing documentation and NDA-safe assets._
 
-- 20+ constraints (alcohol %, region %, varietal %, vintage %, availability)  
-- Binary variables for quantity discounts & strategic product choices  
-- Sensitivity analysis & binding constraint diagnostics  
+---
 
-➡ **Repository:** _Pending publication — will include executive overview, methodology, and key insights._
+### 📦 Konys Inc. — Procurement Risk Monte Carlo Simulation
+
+- **Decision problem:** managing cost and schedule risk under demand and price uncertainty  
+- **Approach:** Monte Carlo simulation with distribution fitting and scenario analysis  
+- **Impact:** risk-aware procurement guidance with confidence intervals  
+
+➡ **Repository:** _Finalizing documentation and NDA-safe assets._
+
+---
+
+### 🎯 Online Advertising (MAB) — Reinforcement Learning
+
+- **Decision problem:** adaptive ad selection under incomplete information  
+- **Approach:** ε-greedy, UCB, and Thompson Sampling bandit models  
+- **Impact:** faster learning and higher cumulative reward vs static strategies  
+
+➡ **Repository:** _Finalizing documentation and NDA-safe assets._
 
 ---
 
