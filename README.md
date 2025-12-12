@@ -73,6 +73,14 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 ➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/reinforcement_learning/av_pedestrian_avoidance_bandit
 
+### ⚠️ NDA & Confidentiality Notice
+
+This project is an independent, academic-style simulation based on publicly discussed autonomous vehicle safety challenges and standard reinforcement learning techniques.  
+
+No proprietary data, internal testing results, source code, sensor logs, simulation environments, or confidential materials from Zoox, Cruise, Google, or any other organization were used or referenced.  
+
+All data, scenarios, and results shown are synthetic and intended solely to demonstrate analytical methodology and decision-system design.
+
 ---
 
 ### 🍇 Landhills Winery — Optimal Blending Plan (LP/MIP)
