@@ -131,7 +131,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 
 ---
 
-# 🇺🇸 U.S.-Remote Career Alignment
+# U.S.-Remote Career Alignment
 
 Originally from the **San Francisco Bay Area**, I maintain strong ties to U.S. markets and am targeting **U.S.-based remote roles** in:
 
