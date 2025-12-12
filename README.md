@@ -97,7 +97,7 @@ No proprietary data, internal testing footage, or confidential materials from Zo
 - Binary variables for quantity discounts & strategic product choices  
 - Sensitivity analysis & binding constraint diagnostics  
 
-➡ **Repository:** _Coming soon (link after upload)_
+➡ **Repository:** _Pending publication — will include executive overview, methodology, and key insights._
 
 ---
 
@@ -108,7 +108,7 @@ No proprietary data, internal testing footage, or confidential materials from Zo
 - Modeled contracts, spot purchases, and options  
 - Produced 90% confidence intervals & risk-based recommendations  
 
-➡ **Repository:** _Coming soon (link after upload)_
+➡ **Repository:** _Pending publication — will include executive overview, methodology, and key insights._
 
 ---
 
@@ -119,7 +119,7 @@ No proprietary data, internal testing footage, or confidential materials from Zo
 - Generated regret & convergence plots  
 - Thompson Sampling achieved fastest learning and highest reward  
 
-➡ **Repository:** _Coming soon (link after upload)_
+➡ **Repository:** _Pending publication — will include executive overview, methodology, and key insights._
 
 ---
 
