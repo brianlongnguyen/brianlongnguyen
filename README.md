@@ -13,7 +13,13 @@ My work spans:
 - 🔢 **Optimization (LP/MIP)** — optimal resource allocation under business rules  
 - 🎲 **Monte Carlo Simulation** — modeling uncertainty & financial risk  
 - 🤖 **Reinforcement Learning (Multi-Armed Bandits)** — systems that learn in real time  
-- 📊 **Business & Operational Strategy** — translating analytics into managerial action  
+- 📊 **Business & Operational Strategy** — translating analytics into managerial action
+
+  ### How I Approach Analytics
+- Decision-first, model-second
+- Explicit treatment of uncertainty and risk
+- Preference for interpretable, governable systems
+- Experience operating in safety-critical environments
 
 My long-term career trajectory is toward becoming a **hybrid executive** — a leader fluent in business, analytics, and AI — positioned for U.S.-remote roles at the intersection of strategy and technology.
 
