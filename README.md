@@ -29,7 +29,7 @@ My work spans:
 - 🤖 **Reinforcement Learning (Multi-Armed Bandits)** — systems that learn in real time  
 - 📊 **Business & Operational Strategy** — translating analytics into managerial action
 
-My long-term career trajectory is toward becoming a **hybrid executive** — a leader fluent in business, analytics, and AI — positioned for U.S.-remote roles at the intersection of strategy and technology.
+>  *My long-term career trajectory is toward becoming a **hybrid executive** — a leader fluent in business, analytics, and AI — positioned for U.S.-remote roles at the intersection of strategy and technology.*
 
 ---
 
