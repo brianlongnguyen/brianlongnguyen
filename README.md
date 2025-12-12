@@ -6,7 +6,21 @@
 
 # 🌐 About Me
 
-I focus on designing decision systems under uncertainty—where tradeoffs, risk, and safety matter more than point predictions.  I specialize in analytics and reinforcement learning for decision-making under uncertainty, with a professional background in autonomous vehicles and robotics.  My work focuses on translating advanced analytics--optimization, simulation and RL--into executive-level decisions in safety-critical and capital-intensive domains.
+I specialize in analytics and reinforcement learning for decision-making under uncertainty, with a professional background in autonomous vehicles and robotics.  My work focuses on translating advanced analytics--optimization, simulation and RL--into executive-level decisions in safety-critical and capital-intensive domains.
+
+---
+
+## 🧠 How I Think
+
+- 🎯 **Decision-First, Model-Second** — analytics exists to improve decisions, not to showcase models  
+- ⚖️ **Explicit Tradeoffs & Constraints** — real systems operate under safety, regulatory, and resource limits  
+- 🎲 **Uncertainty Is Central** — risk, variance, and tail outcomes matter as much as expected value  
+- 🧭 **Governable & Interpretable Systems** — preference for solutions executives can understand, trust, and scale  
+- 🚦 **Safety-Critical Mindset** — experience designing analytics where failure carries real-world consequences  
+
+> *My goal is to design analytics and AI systems that improve decision quality while remaining robust, interpretable, and accountable.*
+
+---
 
 My work spans:
 
