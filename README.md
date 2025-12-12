@@ -15,7 +15,8 @@ My work spans:
 - 🤖 **Reinforcement Learning (Multi-Armed Bandits)** — systems that learn in real time  
 - 📊 **Business & Operational Strategy** — translating analytics into managerial action
 
-  ### How I Approach Analytics
+How I Approach Analytics:
+
 - Decision-first, model-second
 - Explicit treatment of uncertainty and risk
 - Preference for interpretable, governable systems
