@@ -6,7 +6,7 @@
 
 # 🌐 About Me
 
-I specialize in analytics and reinforcement learning for decision-making under uncertainty, with a professional background in autonomous vehicles and robotics.  My work focuses on translating advanced analytics--optimization, simulation and RL--into executive-level decisions in safety-critical and capital-intensive domains.
+I design decision systems where tradeoffs, risk, and safety matter more than point predictions. With a professional background in autonomous vehicles and robotics, I specialize in prescriptive analytics and reinforcement learning to support executive decision-making in safety-critical and capital-intensive domains.
 
 ---
 
