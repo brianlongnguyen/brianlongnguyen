@@ -64,8 +64,6 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 # 📁 Featured Projects
 
-## 📁 Featured Projects
-
 ## 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
 **Multi-Armed Bandit Optimization for Autonomous Vehicle Safety Testing**
 
