@@ -1,12 +1,12 @@
 <h1 align="center">Brian Nguyen</h1>
 <h3 align="center">Optimization • Simulation • AI-Enabled Decision Systems</h3>
-<p align="center"><strong>MBA Candidate | Autonomous Vehicle and Robotics Professional (Zoox, Cruise, Google Robotics) | Operations | Analytics</strong></p>
+<p align="center"><strong>MBA Candidate | Management Analytics | Autonomous Vehicles | Robotics | Reinforcement Learning | Decision Optimization</strong></p>
 
 ---
 
 # 🌐 About Me
 
-I build analytical and AI-driven systems that help organizations make better decisions — under constraints, uncertainty, and incomplete information.
+I specialize in analytics and reinforcement learning for decision-making under uncertainty, with a professional background in autonomous vehicles and robotics.  My work focuses on translating advanced analytics--optimization, simulation and RL--into executive-level decisions in safety-critical and capital-intensive domains.
 
 My work spans:
 
