@@ -2,6 +2,8 @@
 <h3 align="center">Optimization • Simulation • AI-Enabled Decision Systems</h3>
 <p align="center"><strong>MBA Candidate | Management Analytics | Autonomous Vehicles | Robotics | Reinforcement Learning | Decision Optimization</strong></p>
 
+> *Decision science leader specializing in optimization, simulation, and reinforcement learning for safety-critical and high-stakes systems.*
+
 ---
 
 # 🌐 About Me
