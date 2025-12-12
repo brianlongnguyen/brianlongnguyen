@@ -70,6 +70,10 @@ An **ε-greedy multi-armed bandit agent** updates Q-values after each trial usin
 🔗 **GitHub repo:**  
 https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/reinforcement_learning/av_pedestrian_avoidance_bandit
 
+### ⚠️ Disclosure & Confidentiality Notice
+This project is based on publicly discussed autonomous vehicle safety challenges and academic simulation techniques.  
+No proprietary data, internal testing footage, or confidential materials from Zoox or any other organization are included.
+
 ## 🍇 **Landhills Winery — Optimal Blending Model (LP/MIP)**  
 *Mixed-integer optimization under regulatory, chemical, and supply constraints.*
 
