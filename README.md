@@ -113,28 +113,6 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 
 ---
 
-## 📦 **Konys Inc. — Procurement Risk Monte Carlo Simulation**  
-*10,000-scenario simulation capturing demand volatility and spot price uncertainty.*
-
-- Fit demand/price distributions (Normal, Uniform)  
-- Modeled contracts, spot purchases, and options  
-- Produced 90% confidence intervals & risk-based recommendations  
-
-➡ **Repository:** _Pending publication — will include executive overview, methodology, and key insights._
-
----
-
-## 🎯 **Online Advertising (MAB) — Reinforcement Learning**  
-*Epsilon-Greedy, UCB, and Thompson Sampling for real-time ad optimization.*
-
-- Modeled CTR as Bernoulli reward distributions  
-- Generated regret & convergence plots  
-- Thompson Sampling achieved fastest learning and highest reward  
-
-➡ **Repository:** _Pending publication — will include executive overview, methodology, and key insights._
-
----
-
 # 🧭 Professional Focus
 
 ### **Building toward roles such as:**
