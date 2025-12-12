@@ -154,8 +154,8 @@ I aim to bridge Canadian residency with U.S. compensation and leadership opportu
 
 # 📫 Connect With Me
 
-- **LinkedIn:** _[Insert URL]_  
-- **Email:** _[Insert Email]_  
+- **LinkedIn:** _[https://www.linkedin.com/in/brianlongnguyen/]_  
+- **Email:** _[brianlongnguyen@gmail.com]_  
 
 I’m always open to discussing optimization, simulation, AI systems, or leadership opportunities anywhere in North America.
 
