@@ -64,9 +64,15 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 # 📁 Featured Projects
 
-![Featured Projects – Core](assets/featured_projects_core.png)
+![Autonomous Vehicle Safety — Reinforcement Learning & Optimization](assets/av-safety-reinforcement-learning-optimization.png)
 
-Below are the core projects that showcase my ability to blend optimization, simulation, and AI for managerial decision-making.
+*Designing safety-critical decision policies under uncertainty using reinforcement learning.*
+
+---
+
+![Decision Science — Optimization, Simulation & Bandits](assets/decision-science-simulation-bandits-optimization.png)
+
+*Applying optimization and probabilistic modeling to risk, allocation, and adaptive decision problems.*
 
 ---
 
