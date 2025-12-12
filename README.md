@@ -12,7 +12,7 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 ---
 
-## 🧠 How I Think
+# 🧠 How I Think
 
 - 🎯 **Decision-First, Model-Second** — analytics exists to improve decisions, not to showcase models  
 - ⚖️ **Explicit Tradeoffs & Constraints** — real systems operate under safety, regulatory, and resource limits  
@@ -24,7 +24,7 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 ---
 
-## 🧩 My Work Spans
+# 🧩 My Work Spans
 
 - 🔢 **Optimization (LP/MIP)** — optimal resource allocation under business rules  
 - 🎲 **Monte Carlo Simulation** — modeling uncertainty & financial risk  
@@ -64,7 +64,7 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 ---
 
-## 📁 Featured Projects
+# 📁 Featured Projects
 
 ### 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
 **Multi-Armed Bandit Optimization for Autonomous Vehicle Safety Testing**
