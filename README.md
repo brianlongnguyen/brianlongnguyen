@@ -50,7 +50,7 @@ My long-term career trajectory is toward becoming a **hybrid executive** — a l
 
 # 📁 Featured Projects
 
-![Featured Projects Overview](assets/Untitled (1200 x 560 px).png
+![Featured Projects – Core](featured_projects_core.png)
 
 Below are the core projects that showcase my ability to blend optimization, simulation, and AI for managerial decision-making.
 
