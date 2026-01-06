@@ -97,6 +97,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 ---
 
 ### 📦 Konys Inc. — Procurement Risk Monte Carlo Simulation
+**Monte Carlo Simulation for Contract Design and Risk Transfer**
 
 - **Decision problem:** managing cost and schedule risk under demand and price uncertainty  
 - **Approach:** Monte Carlo simulation with distribution fitting and scenario analysis  
