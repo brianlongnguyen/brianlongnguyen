@@ -91,7 +91,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 - **Approach:** linear and mixed-integer optimization with sensitivity analysis  
 - **Impact:** prescriptive recommendations replacing heuristic planning  
 
-➡ **Repository:** _Finalizing documentation and NDA-safe assets._
+➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/optimization/landhills-winery-optimal-blending
 
 ---
 
