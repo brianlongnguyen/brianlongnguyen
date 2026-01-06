@@ -86,6 +86,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 ---
 
 ### 🍇 Landhills Winery — Optimal Blending Plan (LP/MIP)
+**Prescriptive Analytics Using Linear & Mixed-Integer Optimization**
 
 - **Decision problem:** profit maximization under regulatory, chemical, and supply constraints  
 - **Approach:** linear and mixed-integer optimization with sensitivity analysis  
