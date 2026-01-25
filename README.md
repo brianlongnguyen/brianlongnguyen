@@ -69,9 +69,9 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 ### 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
 **Multi-Armed Bandit Optimization for Autonomous Vehicle Safety Testing**
 
-- **Decision problem:** selecting the safest evasive maneuver under uncertainty  
-- **Approach:** ε-greedy multi-armed bandit with safety-weighted reward function  
-- **Impact:** simulation-based policy design for safety-critical AV testing  
+- **Decision problem:** Autonomous systems must choose evasive maneuvers under asymmetric risk and incomplete information. The problem is not merely computing collision probabilities — it is deciding which action minimizes expected harm when uncertainty is high and failure is irreversible.
+- **Approach:** Formulated as a multi-armed bandit with epsilon-greedy exploration. Simulated heterogeneous pedestrian–vehicle encounters across velocity differentials and safety penalties. Compared rewards under alternative policies to examine how risk preferences shift optimal maneuver selection.  
+- **Impact:** Formulated as a multi-armed bandit with epsilon-greedy exploration. Simulated heterogeneous pedestrian–vehicle encounters across velocity differentials and safety penalties. Compared rewards under alternative policies to examine how risk preferences shift optimal maneuver selection.  
 
 ➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/reinforcement_learning/av_pedestrian_avoidance_bandit
 
@@ -88,9 +88,9 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 ### 🍇 Landhills Winery — Optimal Blending Plan (LP/MIP)
 **Prescriptive Analytics Using Linear & Mixed-Integer Optimization**
 
-- **Decision problem:** profit maximization under regulatory, chemical, and supply constraints  
-- **Approach:** linear and mixed-integer optimization with sensitivity analysis  
-- **Impact:** prescriptive recommendations replacing heuristic planning  
+- **Decision problem:** Blending choices must satisfy regulatory, quality, and capacity constraints while maximizing profitability. This creates a multi-criteria resource allocation problem where feasible space is narrow and non-intuitive.  
+- **Approach:** Linear and mixed-integer programming formulation with quality, volume, and regulatory constraints. Solved via LP/MIP with explicit variable interpretation for managerial transparency. Conducted sensitivity to evaluate how minor shifts in composition parameters influence feasible region and optimal blends.  
+- **Impact:** Illustrates how constrained optimization outperforms heuristic or intuition-driven blending. Generalizes to chemicals, energy, supply chains, food & beverage, and any domain where physical composition, capacity, or compliance constraints shape feasible decisions.  
 
 ➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/optimization/landhills-winery-optimal-blending
 
@@ -99,9 +99,9 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 ### 📦 Konys Inc. — Procurement Risk Monte Carlo Simulation
 **Monte Carlo Simulation for Contract Design and Risk Transfer**
 
-- **Decision problem:** managing cost and schedule risk under demand and price uncertainty  
-- **Approach:** Monte Carlo simulation with distribution fitting and scenario analysis  
-- **Impact:** risk-aware procurement guidance with confidence intervals  
+- **Decision problem:** Procurement decisions must balance cost, uncertainty, and downside exposure. Contract structure (purchase vs option vs spot) changes the distribution of outcomes, not just expected value. The key decision variable is therefore not price minimization, but risk transfer under volatility.  
+- **Approach:** Modeled demand and spot price uncertainty via Monte Carlo simulation. Compared purchase and option contracts using expected profit, percentile outcomes, and risk metrics. Evaluated flexibility premiums and tail risk to determine which policies create economic resilience under high volatility. 
+- **Impact:** Shows how simulation can make contract design and risk management tractable for executives. Extends to commodities, supply chain, energy, semiconductors, and regulated industries where volatility and supply constraints drive procurement decisions.  
 
 ➡ **Repository:** (https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/konys-procurement-risk-monte-carlo)
 
@@ -117,6 +117,15 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 ➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/optimization/network-flow-min-cost-routing
 
 ---
+
+### Moore Pharmaceuticals (Monte Carlo NPV Under Regulatory & Market Uncertainty)
+**Decision system for routing flow across multi-node networks under capacity and cost constraints**
+
+- **Decision problem:** Drug portfolio decisions involve market, regulatory, and timing uncertainty. Conventional NPV undervalues option-like payoffs and overstates certainty, leading to suboptimal investment choices in later-stage development.
+- **Approach:** Monte Carlo simulation with multi-dimensional uncertainty (market size, pricing, delay risk, regulatory probability). Compared deterministic vs stochastic NPVs and examined how volatility shifts optimal investment choices. Highlighted the managerial value of time and optionality under regulatory timelines. 
+- **Impact:** Demonstrates how simulation improves capital allocation in high-uncertainty environments. Applies to life sciences, biotech, energy infrastructure, and other long-cycle industries where decision quality hinges on probabilistic economic outcomes rather than point estimates.
+
+➡ **Repository:**
 
 # 🧭 Professional Focus
 
