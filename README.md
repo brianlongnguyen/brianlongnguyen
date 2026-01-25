@@ -103,11 +103,12 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 - **Approach:** Monte Carlo simulation with distribution fitting and scenario analysis  
 - **Impact:** risk-aware procurement guidance with confidence intervals  
 
-➡ **Repository:** _Finalizing documentation and NDA-safe assets._
+➡ **Repository:** (https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/konys-procurement-risk-monte-carlo)
 
 ---
 
-### 🎯 Online Advertising (MAB) — Reinforcement Learning
+### 🚚 Capacity-Constrained Network Flow Optimization (LP)
+**Decision system for routing flow across multi-node networks under capacity and cost constraints**
 
 - **Decision problem:** adaptive ad selection under incomplete information  
 - **Approach:** ε-greedy, UCB, and Thompson Sampling bandit models  
