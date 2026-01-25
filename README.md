@@ -110,9 +110,9 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 ### 🚚 Capacity-Constrained Network Flow Optimization (LP)
 **Decision system for routing flow across multi-node networks under capacity and cost constraints**
 
-- **Decision problem:** adaptive ad selection under incomplete information  
-- **Approach:** ε-greedy, UCB, and Thompson Sampling bandit models  
-- **Impact:** faster learning and higher cumulative reward vs static strategies ](https://github.com/brianlongnguyen/brianlongnguyen/blob/main/README.md) 
+- **Decision problem:** How should flow be routed through a constrained network to meet demand at minimum cost, recognizing that system-wide performance depends on bottlenecks, interdependencies, and binding constraints rather than isolated path decisions?
+- **Approach:** Linear programming formulation with capacity, cost, and conservation constraints. Solved using PuLP with explicit shadow-price interpretation to identify binding capacity and marginal value of additional throughput.  
+- **Impact:** Demonstrates how systems thinking + optimization can diagnose where interventions matter. Generalizes to supply chain logistics networks, transportation routing, energy infrastructure, and other resource allocation problems governed by constraints rather than heuristics.
 
 ➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/optimization/network-flow-min-cost-routing
 
