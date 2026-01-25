@@ -112,9 +112,9 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 
 - **Decision problem:** adaptive ad selection under incomplete information  
 - **Approach:** ε-greedy, UCB, and Thompson Sampling bandit models  
-- **Impact:** faster learning and higher cumulative reward vs static strategies  
+- **Impact:** faster learning and higher cumulative reward vs static strategies ](https://github.com/brianlongnguyen/brianlongnguyen/blob/main/README.md) 
 
-➡ **Repository:** _Finalizing documentation and NDA-safe assets._
+➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/optimization/network-flow-min-cost-routing
 
 ---
 
