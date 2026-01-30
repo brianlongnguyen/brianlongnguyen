@@ -103,7 +103,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 - **Approach:** Modeled demand and spot price uncertainty via Monte Carlo simulation. Compared purchase and option contracts using expected profit, percentile outcomes, and risk metrics. Evaluated flexibility premiums and tail risk to determine which policies create economic resilience under high volatility. 
 - **Impact:** Shows how simulation can make contract design and risk management tractable for executives. Extends to commodities, supply chain, energy, semiconductors, and regulated industries where volatility and supply constraints drive procurement decisions.  
 
-➡ **Repository:** (https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/konys-procurement-risk-monte-carlo)
+➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/konys-procurement-risk-monte-carlo
 
 ---
 
@@ -125,7 +125,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 - **Approach:** Monte Carlo simulation with multi-dimensional uncertainty (market size, pricing, delay risk, regulatory probability). Compared deterministic vs stochastic NPVs and examined how volatility shifts optimal investment choices. Highlighted the managerial value of time and optionality under regulatory timelines. 
 - **Impact:** Demonstrates how simulation improves capital allocation in high-uncertainty environments. Applies to life sciences, biotech, energy infrastructure, and other long-cycle industries where decision quality hinges on probabilistic economic outcomes rather than point estimates.
 
-➡ **Repository:**
+➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/simulation/moore-pharmaceuticals-monte-carlo
 
 # 🧭 Professional Focus
 
