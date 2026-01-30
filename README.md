@@ -118,7 +118,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 
 ---
 
-### Moore Pharmaceuticals (Monte Carlo NPV Under Regulatory & Market Uncertainty)
+### 💊 Moore Pharmaceuticals (Monte Carlo NPV Under Regulatory & Market Uncertainty)
 **Decision system for routing flow across multi-node networks under capacity and cost constraints**
 
 - **Decision problem:** Drug portfolio decisions involve market, regulatory, and timing uncertainty. Conventional NPV undervalues option-like payoffs and overstates certainty, leading to suboptimal investment choices in later-stage development.
