@@ -1,6 +1,6 @@
 <h1 align="center">Brian Nguyen</h1>
-<h3 align="center">Optimization • Simulation • AI-Enabled Decision Systems</h3>
-<p align="center"><strong>MBA Candidate | Management Analytics | Autonomous Vehicles | Robotics | Reinforcement Learning | Decision Optimization</strong></p>
+<h3 align="center">Optimization • Simulation • AI-Enabled Decision Systems for Operational & Strategic Decision-Making</h3>
+<p align="center"><strong>MBA Candidate | Risk Analytics | Autonomous Vehicles | Robotics | Reinforcement Learning | Decision Optimization</strong></p>
 
 > *Decision science leader specializing in optimization, simulation, and reinforcement learning for safety-critical and high-stakes systems.*
 
