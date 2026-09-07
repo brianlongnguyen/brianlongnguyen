@@ -1,21 +1,21 @@
 <h1 align="center">Brian Nguyen</h1>
 <h3 align="center">Optimization • Simulation • AI-Enabled Decision Systems for Operational & Strategic Decision-Making</h3>
-<p align="center"><strong>MBA Candidate | Risk Analytics | Autonomous Vehicles | Robotics | Reinforcement Learning | Decision Optimization</strong></p>
+<p align="center"><strong>Decision Science | Risk Analytics | Autonomous Vehicles | Robotics | Reinforcement Learning | Decision Optimization</strong></p>
 
-> *Decision science leader specializing in optimization, simulation, and reinforcement learning for safety-critical and high-stakes systems.*
+> *Decision science leader specializing in optimization, simulation, and reinforcement learning for safety-critical, capital-intensive, and high-stakes systems.*
 
 ---
 
 # 🌐 About Me
 
-I design decision systems where tradeoffs, risk, and safety matter more than point predictions. With a professional background in autonomous vehicles and robotics, I specialize in prescriptive analytics and reinforcement learning to support executive decision-making in safety-critical and capital-intensive domains.
+I design decision systems where tradeoffs, risk, and safety matter more than point predictions. With a professional background in autonomous vehicles and robotics, I specialize in prescriptive analytics, simulation, optimization, and reinforcement learning to support executive decision-making in safety-critical and capital-intensive domains.
 
 ---
 
 # 🧠 How I Think
 
 - 🎯 **Decision-First, Model-Second** — analytics exists to improve decisions, not to showcase models  
-- ⚖️ **Explicit Tradeoffs & Constraints** — real systems operate under safety, regulatory, and resource limits  
+- ⚖️ **Explicit Tradeoffs & Constraints** — real systems operate under safety, regulatory, financial, and resource limits  
 - 🎲 **Uncertainty Is Central** — risk, variance, and tail outcomes matter as much as expected value  
 - 🧭 **Governable & Interpretable Systems** — preference for solutions executives can understand, trust, and scale  
 - 🚦 **Safety-Critical Mindset** — experience designing analytics where failure carries real-world consequences  
@@ -27,9 +27,10 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 # 🧩 My Work Spans
 
 - 🔢 **Optimization (LP/MIP)** — optimal resource allocation under business rules  
-- 🎲 **Monte Carlo Simulation** — modeling uncertainty & financial risk  
+- 🎲 **Monte Carlo Simulation** — modeling uncertainty, financial risk, and capital exposure  
 - 🤖 **Reinforcement Learning (Multi-Armed Bandits)** — systems that learn in real time  
-- 📊 **Business & Operational Strategy** — translating analytics into managerial action
+- 📊 **Business & Operational Strategy** — translating analytics into managerial action  
+- ⚡ **Infrastructure & Capital Decision Systems** — evaluating scale, financing, customer risk, and investment under uncertainty  
 
 > *My long-term career trajectory is toward becoming a **hybrid executive** — a leader fluent in business, analytics, and AI — positioned for U.S.-remote roles at the intersection of strategy and technology.*
 
@@ -48,7 +49,7 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 ### **Simulation**
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 
 ### **Reinforcement Learning**
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-FFD700?style=for-the-badge)
@@ -66,12 +67,31 @@ I design decision systems where tradeoffs, risk, and safety matter more than poi
 
 # 📁 Featured Projects
 
+### ⚡ DriveCharge — Grid-Constrained Energy Infrastructure
+**Monte Carlo Simulation, Optimization & Financial Underwriting for High-Power Energy Infrastructure**
+
+- **Decision problem:** How should a capital-intensive energy infrastructure platform serve customers whose required power is unavailable, delayed, or insufficient from the grid while remaining economically viable under utilization, customer-credit, financing, and market risk?
+- **Approach:** Built as a multi-stage decision system combining Monte Carlo simulation, infrastructure cost modeling, utilization analysis, economies of scale, capital stress testing, DSCR analysis, customer credit underwriting, contract engineering, and risk-capital optimization. The model evaluates standardized 1–3 MW power modules and explicitly defines the conditions that would falsify the business thesis.
+- **Impact:** Demonstrates how simulation and financial underwriting can evolve an early technical concept into a disciplined infrastructure strategy. The current model identifies a modeled ~$0.40/kWh scale crossover near 28 representative customers and shows how customer screening, CAPEX prepayments, minimum-volume commitments, collateral, and staged financing can materially reduce modeled risk-capital requirements.
+
+➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/drivecharge-grid-gap-infrastructure
+
+### ⚠️ Research & Confidentiality Notice
+
+DriveCharge is an independent feasibility and decision-system research project based on public information and original analytical modeling.
+
+No proprietary data, confidential employer information, internal customer information, source code, operational data, or non-public materials from Zoox, Cruise, Google, or any other organization were used or referenced.
+
+All customer-credit grades, probability assumptions, contract structures, financing scenarios, infrastructure economics, and modeled results are hypothetical and intended solely to demonstrate simulation, decision analytics, financial underwriting, and risk-aware business-model design.
+
+---
+
 ### 🚗 Prescriptive Analytics for Pedestrian Collision Avoidance  
 **Multi-Armed Bandit Optimization for Autonomous Vehicle Safety Testing**
 
 - **Decision problem:** Autonomous systems must choose evasive maneuvers under asymmetric risk and incomplete information. The problem is not merely computing collision probabilities — it is deciding which action minimizes expected harm when uncertainty is high and failure is irreversible.
 - **Approach:** Formulated as a multi-armed bandit with epsilon-greedy exploration. Simulated heterogeneous pedestrian–vehicle encounters across velocity differentials and safety penalties. Compared rewards under alternative policies to examine how risk preferences shift optimal maneuver selection.  
-- **Impact:** Formulated as a multi-armed bandit with epsilon-greedy exploration. Simulated heterogeneous pedestrian–vehicle encounters across velocity differentials and safety penalties. Compared rewards under alternative policies to examine how risk preferences shift optimal maneuver selection.  
+- **Impact:** Demonstrates how prescriptive analytics reframes autonomy as a decision problem rather than a prediction task. Applicable to robotics, autonomous vehicles, industrial safety systems, and other risk-dominant environments.  
 
 ➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/reinforcement_learning/av_pedestrian_avoidance_bandit
 
@@ -125,7 +145,9 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 - **Approach:** Monte Carlo simulation with multi-dimensional uncertainty (market size, pricing, delay risk, regulatory probability). Compared deterministic vs stochastic NPVs and examined how volatility shifts optimal investment choices. Highlighted the managerial value of time and optionality under regulatory timelines. 
 - **Impact:** Demonstrates how simulation improves capital allocation in high-uncertainty environments. Applies to life sciences, biotech, energy infrastructure, and other long-cycle industries where decision quality hinges on probabilistic economic outcomes rather than point estimates.
 
-➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/simulation/moore-pharmaceuticals-monte-carlo
+➡ **Repository:** https://github.com/brianlongnguyen/analytics-ai-portfolio/tree/main/simulation/moore-pharmaceuticals-monte-carlo
+
+---
 
 # 🧭 Professional Focus
 
@@ -139,6 +161,7 @@ All data, scenarios, and results shown are synthetic and intended solely to demo
 - Translating business problems into mathematical models  
 - Quantifying uncertainty for better strategic decisions  
 - Designing AI-enabled operational systems  
+- Evaluating capital-intensive decisions under uncertainty  
 - Communicating technical findings to executive stakeholders  
 
 ---
@@ -161,7 +184,7 @@ I aim to bridge Canadian residency with U.S. compensation and leadership opportu
 - **LinkedIn:** _[https://www.linkedin.com/in/brianlongnguyen/]_  
 - **Email:** _[brianlongnguyen@gmail.com]_  
 
-I’m always open to discussing optimization, simulation, AI systems, or leadership opportunities anywhere in North America.
+I’m always open to discussing optimization, simulation, AI systems, infrastructure strategy, or leadership opportunities anywhere in North America.
 
 ---
 
